@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://sj_sahil23:sj_sahil23@contactkeeper.tefiggb.mongodb.net/" ,
+    "jwtSecret": "secret"   
+}
